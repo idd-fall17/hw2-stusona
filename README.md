@@ -8,4 +8,4 @@ This keyboard uses the orientation of the braille alphabet to input each letter.
 ![Top of board](_STU2153.JPG)
 ![Assembled](_STU2158.JPG)
 [![Braille Typer Demo](https://img.youtube.com/vi/GN66CHK_a1M/0.jpg)](https://youtu.be/GN66CHK_a1M)
-
+![Made in Fritzing](Braille_Typer.png)
